@@ -25,7 +25,7 @@
   Mazin
 - [FuraxDev](https://github.com/furax2204)
 - [K Miyahara](https://github.com/zantmanpiman)
-- [keerthi](https://github.com/KeerthiMalini05/)
+- [Keerthi](https://github.com/KeerthiMalini05/)
 - [Mahmoud Alaa] (https://github.com/mahmoud-alaa1)
 - [Samman Jaiswal](https://github.com/jayssSmm)
 - I am here now, popopwopwop
