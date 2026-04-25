@@ -139,6 +139,7 @@ cd first-contributions
 Now create a branch using the `git switch` command:
 
 ```bash
+
 git switch -c your-new-branch-name
 ```
 
